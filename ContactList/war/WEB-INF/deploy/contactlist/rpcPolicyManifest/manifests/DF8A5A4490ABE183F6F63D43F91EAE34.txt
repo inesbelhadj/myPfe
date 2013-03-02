@@ -1,0 +1,2 @@
+serviceClass: gaej.example.contact.client.ContactService
+path: BFD832C51C48C23FEEA976A81ADF1AA0.gwt.rpc
